@@ -1,2 +1,2 @@
-# lab6
+# Example_JS
  
